@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Protector"
+  short_description: "Create installable protected Codex Skills"
+  default_prompt: "Use $skill-protector to turn an installed Skill into a self-unlocking protected Skill."
