@@ -19,8 +19,8 @@ Skill Protector turns a private Skill into an installable protected Skill. Its i
 
 - **Protect core content:** All original Skill files are encrypted. Only authorized users can unlock them.
 - **Prevent tampering:** The encrypted package includes an integrity check that detects damage or unauthorized changes.
-- **Self-Decrypting: Zero-Friction Delivery:** Protected Skills come with native decryption built in. End users enjoy an out-of-the-box experience without installing Skill Protector or configuring extra dependencies.
-- **Multi-Key Distribution: Granular Channel Control:** Encrypt your Skills with dedicated keys tailored for different distributors, partners, or channels. Isolate access risks and maintain full, traceable control over every distribution path.
+- **Self-Decrypting:** Protected Skills include decryption support. End users can use them without installing Skill Protector or configuring additional dependencies.
+- **Multi-Key Distribution:** Create a separately encrypted copy with a dedicated key for each distributor, partner, or channel. This keeps access separate across distribution paths.
 
 ## Skill distributor
 
@@ -109,8 +109,8 @@ Skill Protector 可以把私有 Skill 变成可安装的受保护 Skill。原 Sk
 
 - **保护核心内容：** Skill 的全部原始文件会被加密，只有获得授权的使用者才能解锁。
 - **防止内容被篡改：** 加密包带有完整性验证，可识别损坏或未经授权的修改。
-- **自带解密能力，开箱即用零门槛：** 受保护的 Skill 原生内置解密能力，终端使用者无需安装 Skill Protector 或配置任何额外环境，即拿即用，提供极致丝滑的交付体验。
-- **多密钥独立加密，精准管控每个分发渠道：** 支持针对不同分发人、合作伙伴或渠道定制专属加密 Key，实现访问权限的物理隔离与精细化管理，有效防止交叉泄露，资产流转安全可控。
+- **自带解密：** 受保护 Skill 内置解密能力。使用者无需安装 Skill Protector 或配置额外依赖。
+- **多密钥分发：** 可以为不同分发人、合作伙伴或渠道分别生成使用独立密钥的加密副本，使各分发渠道的访问相互隔离。
 
 ## Skill 分发者
 
