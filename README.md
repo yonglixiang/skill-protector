@@ -40,7 +40,7 @@ Original Skill → protect → share the protected Skill
 The easiest way is to send this message to your Agent:
 
 ~~~text
-Install the skill-protector Skill from https://github.com/YOUR_ACCOUNT/YOUR_REPOSITORY/tree/main/skill-protector
+Install the skill-protector Skill from https://github.com/yonglixiang/skill-protector
 ~~~
 
 Replace the example address with this repository's real address. Start a new Agent session after installation.
@@ -48,7 +48,7 @@ Replace the example address with this repository's real address. Start a new Age
 If you prefer to install it yourself, clone the repository first:
 
 ~~~bash
-git clone https://github.com/YOUR_ACCOUNT/YOUR_REPOSITORY.git skill-protector-repo
+git clone https://github.com/yonglixiang/skill-protector.git skill-protector-repo
 cd skill-protector-repo
 mkdir -p /path/to/your-agent/skills
 cp -R ./skill-protector /path/to/your-agent/skills/skill-protector
@@ -60,7 +60,7 @@ Skill Protector currently needs macOS or Linux, Python 3.10 or later, and OpenSS
 
 ### Step 2: Protect a Skill
 
-You can describe the files in everyday language:
+You can describe the files in language:
 
 ~~~text
 Use $skill-protector to protect the my-skill folder on my Desktop.
@@ -207,16 +207,14 @@ Skill Protector 可以把私有 Skill 变成一个可以安全分享的受保护
 最简单的方法是直接给 Agent 发送这句话：
 
 ~~~text
-请从 https://github.com/YOUR_ACCOUNT/YOUR_REPOSITORY/tree/main/skill-protector 安装 skill-protector Skill
+请从 https://github.com/yonglixiang/skill-protector 安装 skill-protector Skill
 ~~~
-
-请把示例地址换成这个仓库的真实地址。安装后新建一个 Agent 会话。
 
 如果想自己安装，请先克隆仓库：
 
 ~~~bash
-git clone https://github.com/YOUR_ACCOUNT/YOUR_REPOSITORY.git skill-protector-repo
-cd skill-protector-repo
+git clone https://github.com/yonglixiang/skill-protector.git skill-protector
+cd skill-protector
 mkdir -p /你的/Agent/Skills/文件夹
 cp -R ./skill-protector /你的/Agent/Skills/文件夹/skill-protector
 ~~~
