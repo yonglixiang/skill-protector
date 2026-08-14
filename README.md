@@ -40,7 +40,7 @@ Original Skill → protect → share the protected Skill
 The easiest way is to send this message to your Agent:
 
 ~~~text
-Install the skill-protector Skill from https://github.com/yonglixiang/skill-protector
+Install the skill-protector Skill from https://github.com/yonglixiang/skill-protector/tree/main/skill-protector
 ~~~
 
 Replace the example address with this repository's real address. Start a new Agent session after installation.
@@ -207,7 +207,7 @@ Skill Protector 可以把私有 Skill 变成一个可以安全分享的受保护
 最简单的方法是直接给 Agent 发送这句话：
 
 ~~~text
-请从 https://github.com/yonglixiang/skill-protector 安装 skill-protector Skill
+请从 https://github.com/yonglixiang/skill-protector/tree/main/skill-protector 安装 skill-protector Skill
 ~~~
 
 如果想自己安装，请先克隆仓库：
