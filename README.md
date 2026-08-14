@@ -26,7 +26,7 @@ Skill Protector turns a private Skill into an installable protected Skill. Its i
 
 ### 1. Install Skill Protector
 
-Ask your Agent:
+Ask your Agent: 
 
 ```text
 Install the skill-protector Skill from https://github.com/yonglixiang/skill-protector/tree/main/skill-protector
